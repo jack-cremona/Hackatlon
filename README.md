@@ -57,12 +57,12 @@ This program simulates the operation of toll gates, processing vehicles as they 
 
 ## Example Output
 
-How many toll gates do you want to add? 2
-How many cars do you want to let pass? 5
-What is the maximum distance that can be traveled? 100
-TIME 10:15:30.12 AM --> vehicle entered toll gate 0
-TOLL GATE 0 TIME 10:15:33.12 AM --> vehicle type: 1 km traveled 50 price paid 3.00 euros
-TOLL GATE 0 TIME 10:15:33.12 AM --> the vehicle has cleared the toll gate. Its time was 3000 milliseconds
+How many toll gates do you want to add? 2\
+How many cars do you want to let pass? 5\
+What is the maximum distance that can be traveled? 100\
+TIME 10:15:30.12 AM --> vehicle entered toll gate 0\
+TOLL GATE 0 TIME 10:15:33.12 AM --> vehicle type: 1 km traveled 50 price paid 3.00 euros\
+TOLL GATE 0 TIME 10:15:33.12 AM --> the vehicle has cleared the toll gate. Its time was 3000 milliseconds\
 
 ## Requirements
 
